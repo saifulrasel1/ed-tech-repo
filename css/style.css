@@ -1,4 +1,6 @@
-
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .opacity::before {
     content: '';
     display:block;
@@ -13,8 +15,7 @@
 .carousel-caption{
     transform:translatey(-50%);
     top:60%;
-    bottom:0;
-    
+    bottom:0;  
 
 }
 
