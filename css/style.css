@@ -14,7 +14,7 @@ body{
 }
 .carousel-caption{
     transform:translatey(-50%);
-    top:60%;
+    top:50%;
     bottom:0;  
 
 }
